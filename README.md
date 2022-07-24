@@ -8,4 +8,4 @@ USE PURE PIPE
 ```html
 <p>value | calculate</p>
 ```
-- ### EVEN ONPUSH DETECTIONS 
+- ### In thisway you will get invoking of valculation only if getting new value or value changes(in ingular memoization)
